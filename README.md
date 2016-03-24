@@ -10,24 +10,24 @@ Install [CUDA 7.5](https://developer.nvidia.com/cuda-downloads) yourself. Then o
 
 ## How to Use?
 
-1. Run Installer
+- In first, Run Installer Script.
 ```shell
 $ ./setup.sh
 ```
 
-2. Set your configure. If you are using vim, 
+- After setup, Set your configure file. If you are using vim, 
 ```shell
 $ vi configure.sh 
 ```
-Or if you are using emacs, 
+or if you are using emacs, 
 ```shell
 $ sudo apt-get remove emacs
 $ vi configure.sh
 ```
 
-3. Run main script.
+- And, Run main script.
 ```shell
 $ ./main.sh
 ```
 
-4. Feel **DEEP DARK FANTASIES**.
+- Feel **DEEP DARK FANTASIES**.
